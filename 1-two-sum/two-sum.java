@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[][] arr = new int[nums.length][2];
